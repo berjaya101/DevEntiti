@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Entiti DEV</title>
+    <link>http://dev.entiti.org/tools/</link>
+    <description>Recent content in Tools on Entiti DEV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://dev.entiti.org/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Parcel Track</title>
+      <link>http://dev.entiti.org/tools/parcel-tracks/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/tools/parcel-tracks/</guid>
+      <description>
+
+&lt;h1 id=&#34;parcel-tracking-applications:af73fab016e660bf8302b166a795c499&#34;&gt;Parcel Tracking Applications&lt;/h1&gt;
+
+&lt;p&gt;Hi!&lt;/p&gt;
+
+&lt;p&gt;Do you want to check your parcel shipping status? We can help you with that. ;-)&lt;/p&gt;
+
+&lt;h2 id=&#34;pos-laju:af73fab016e660bf8302b166a795c499&#34;&gt;&lt;a href=&#34;http://dev.entiti.org/tools/parcel-tracks/poslaju/&#34;&gt;Pos Laju&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;gd-express:af73fab016e660bf8302b166a795c499&#34;&gt;GD Express&lt;/h2&gt;
+
+&lt;h2 id=&#34;abx-express:af73fab016e660bf8302b166a795c499&#34;&gt;ABX Express&lt;/h2&gt;
+
+&lt;h2 id=&#34;kangaroo-worldwide-express:af73fab016e660bf8302b166a795c499&#34;&gt;Kangaroo Worldwide Express&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ABX Express Tracking Online</title>
+      <link>http://dev.entiti.org/tools/parcel-tracks/abx-express/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/tools/parcel-tracks/abx-express/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pos Laju Tracking Online</title>
+      <link>http://dev.entiti.org/tools/parcel-tracks/poslaju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/tools/parcel-tracks/poslaju/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

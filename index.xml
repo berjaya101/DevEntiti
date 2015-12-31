@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entiti DEV</title>
+    <link>http://dev.entiti.org/</link>
+    <description>Recent content on Entiti DEV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://dev.entiti.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pos Laju Tracking Application</title>
+      <link>http://dev.entiti.org/blog/pos-laju-tracking/</link>
+      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/blog/pos-laju-tracking/</guid>
+      <description>
+
+&lt;h1 id=&#34;pos-laju-tracking-application:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;Pos Laju Tracking Application&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Pos Laju Tracking Application&amp;rdquo;&lt;/strong&gt; is a simple application that you can use to check your parcel delivery status. It has simple interface and very easy to use.&lt;/p&gt;
+
+&lt;p&gt;To check your pos laju parcel status, please click this link &lt;strong&gt;&lt;a href=&#34;http://dev.entiti.org/tools/parcel-tracks/poslaju/&#34;&gt;Pos Laju Tracking&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;pos-laju-tracking-for-facebook-tab:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;Pos Laju Tracking For Facebook Tab&lt;/h2&gt;
+
+&lt;p&gt;This application is also available to be install to your facebook fanpage. To install this application to your fanpage, please click the button below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;ui huge green button&#34; href=&#34;https://www.facebook.com/dialog/pagetab?app_id=583519148338567&amp;next=http://appsninja.org/thank-you/&#34; title=&#34;Install To FB Fanpage&#34; target=&#34;_blank&#34;&gt;Install To FB Fanpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;screenshoot:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;Screenshoot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://dev.entiti.org/media/blog/poslaju-tracking.jpg&#34; alt=&#34;screenshoot pos laju tracking applicatio&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;changelog:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;Changelog&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 2.1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;. Fixed broken link.&lt;br&gt;
+. Update application layout using SemanticUi.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 2.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;. Changed back-end engine using ruby&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 1.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;. Application launch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;faq:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;FAQ&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Do I need to pay to install the application?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;No. The application is available to you for free of charge. There is no need to pay. The application is a token from us to you because you have spend your time visiting our website.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I ask you to custom made the application?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Yes. You can ask for a custom made version of the application with us for a small fee. The custom made version allow you to put your own advertisement to you fanpage.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ABX Express Tracking Application</title>
+      <link>http://dev.entiti.org/blog/abx-express-tracking/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/blog/abx-express-tracking/</guid>
+      <description>
+
+&lt;h1 id=&#34;abx-express-tracking-application:64d07169558b614709fc358297ff22ec&#34;&gt;ABX Express Tracking Application&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;ABX Express Tracking Application&amp;rdquo;&lt;/strong&gt; is a simple application that you can use to check your parcel delivery status. It has a simple interface and is very easy to use.&lt;/p&gt;
+
+&lt;p&gt;To check your ABX Express parcel status directly from our main site, please click this link &lt;strong&gt;&lt;a href=&#34;http://dev.entiti.org/tools/parcel-tracks/abx-express/&#34;&gt;ABX Express Tracking&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;abx-express-tracking-for-facebook-tab:64d07169558b614709fc358297ff22ec&#34;&gt;ABX Express Tracking For Facebook Tab&lt;/h2&gt;
+
+&lt;p&gt;This application is also available to be install to your facebook fanpage. To install this application to your fanpage, please click the button below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;ui huge green button&#34; href=&#34;https://www.facebook.com/dialog/pagetab?app_id=437046036385662&amp;next=http://appsninja.org/thank-you/&#34; title=&#34;Install To FB Fanpage&#34; target=&#34;_blank&#34;&gt;Install To FB Fanpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;screenshoot:64d07169558b614709fc358297ff22ec&#34;&gt;Screenshoot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://dev.entiti.org/media/blog/abx.express.desktop.view.png&#34; alt=&#34;screenshoot abx express tracking applicatio&#34; /&gt;
+Desktop View&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://dev.entiti.org/media/blog/abx.express.result.page.view.png&#34; alt=&#34;screenshoot abx express tracking applicatio&#34; /&gt;
+Result Page View&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://dev.entiti.org/media/blog/abx.express.mobile.view.png&#34; alt=&#34;screenshoot abx express tracking applicatio&#34; /&gt;
+Mobile View&lt;/p&gt;
+
+&lt;h2 id=&#34;changelog:64d07169558b614709fc358297ff22ec&#34;&gt;Changelog&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 1.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;. Application launch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;faq:64d07169558b614709fc358297ff22ec&#34;&gt;FAQ&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Do I need to pay to install the application?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;No. The application is available to you for free of charge. There is no need to pay. The application is a token from us to you because you have spend your time visiting our website.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I ask you to custom made the application?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Yes. You can ask for a custom made version of the application with us for a small fee. The custom made version allow you to put your own advertisement to you fanpage.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kangaroo Worldwide Express Tracking Application</title>
+      <link>http://dev.entiti.org/blog/kangaroo-worldwide-express-tracking/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/blog/kangaroo-worldwide-express-tracking/</guid>
+      <description>
+
+&lt;h1 id=&#34;kangaroo-worldwide-express-tracking-application:03fb758fba7ff72e629322be8521998c&#34;&gt;Kangaroo Worldwide Express Tracking Application&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://dev.entiti.org/media/blog/kangaroo-worldwide-express-tracking.png&#34; alt=&#34;screenshoot abx express tracking applicatio&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Kangaroo Worldwide Express Tracking Application&amp;rdquo;&lt;/strong&gt; is a simple application that you can use to check your parcel delivery status. It has a simple interface and is very easy to use.&lt;/p&gt;
+
+&lt;p&gt;To check your Kangaroo Worldwide Express parcel status directly from our main site, please click this link &lt;strong&gt;[Kangaroo Worldwide Express Tracking][]&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;kangaroo-worldwide-express-tracking-for-facebook-tab:03fb758fba7ff72e629322be8521998c&#34;&gt;Kangaroo Worldwide Express Tracking For Facebook Tab&lt;/h2&gt;
+
+&lt;p&gt;This application is also available to be install to your facebook fanpage. To install this application to your fanpage, please click the button below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;ui huge green button&#34; href=&#34;http://www.facebook.com/dialog/pagetab?app_id=279583442205450&amp;next=http://appsninja.org/thank-you/&#34; title=&#34;Install To FB Fanpage&#34; target=&#34;_blank&#34;&gt;Install To FB Fanpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;changelog:03fb758fba7ff72e629322be8521998c&#34;&gt;Changelog&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 1.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;. Application launch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;faq:03fb758fba7ff72e629322be8521998c&#34;&gt;FAQ&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Do I need to pay to install the application?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;No. The application is available to you for free of charge. There is no need to pay. The application is a token from us to you because you have spend your time visiting our website.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I ask you to custom made the application?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Yes. You can ask for a custom made version of the application with us for a small fee. The custom made version allow you to put your own advertisement to you fanpage.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parcel Track</title>
+      <link>http://dev.entiti.org/tools/parcel-tracks/</link>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/tools/parcel-tracks/</guid>
+      <description>
+
+&lt;h1 id=&#34;parcel-tracking-applications:af73fab016e660bf8302b166a795c499&#34;&gt;Parcel Tracking Applications&lt;/h1&gt;
+
+&lt;p&gt;Hi!&lt;/p&gt;
+
+&lt;p&gt;Do you want to check your parcel shipping status? We can help you with that. ;-)&lt;/p&gt;
+
+&lt;h2 id=&#34;pos-laju:af73fab016e660bf8302b166a795c499&#34;&gt;&lt;a href=&#34;http://dev.entiti.org/tools/parcel-tracks/poslaju/&#34;&gt;Pos Laju&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;gd-express:af73fab016e660bf8302b166a795c499&#34;&gt;GD Express&lt;/h2&gt;
+
+&lt;h2 id=&#34;abx-express:af73fab016e660bf8302b166a795c499&#34;&gt;ABX Express&lt;/h2&gt;
+
+&lt;h2 id=&#34;kangaroo-worldwide-express:af73fab016e660bf8302b166a795c499&#34;&gt;Kangaroo Worldwide Express&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ABX Express Tracking Online</title>
+      <link>http://dev.entiti.org/tools/parcel-tracks/abx-express/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/tools/parcel-tracks/abx-express/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://dev.entiti.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;contact:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Contact&lt;/h1&gt;
+
+&lt;p&gt;Hi!&lt;/p&gt;
+
+&lt;p&gt;Please contact us using the following method:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Facebook&lt;/strong&gt;: &lt;a href=&#34;https://www.facebook.com/messages/351623684948765&#34;&gt;FB Message&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: support@appsninja.org&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pos Laju Tracking Online</title>
+      <link>http://dev.entiti.org/tools/parcel-tracks/poslaju/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/tools/parcel-tracks/poslaju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://dev.entiti.org/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/privacy/</guid>
+      <description>
+
+&lt;h1 id=&#34;privacy-policy:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Privacy Policy&lt;/h1&gt;
+
+&lt;h2 id=&#34;what-do-we-do-with-your-information:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;WHAT DO WE DO WITH YOUR INFORMATION?&lt;/h2&gt;
+
+&lt;p&gt;When you browse our website, we also automatically receive your computer&amp;rsquo;s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.&lt;/p&gt;
+
+&lt;p&gt;Email marketing (if applicable): With your permission, we may send you emails about our new products and other updates.&lt;/p&gt;
+
+&lt;h2 id=&#34;consent:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;CONSENT&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you get my consent?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When you provide us with personal information to fill a form, complete a transaction, place an order, we imply that you consent to our collecting it and using it for that specific reason only.&lt;/p&gt;
+
+&lt;p&gt;If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do I withdraw my consent?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us.&lt;/p&gt;
+
+&lt;h2 id=&#34;disclosure:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;DISCLOSURE&lt;/h2&gt;
+
+&lt;p&gt;We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.&lt;/p&gt;
+
+&lt;h2 id=&#34;third-party-services:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;THIRD-PARTY SERVICES&lt;/h2&gt;
+
+&lt;p&gt;In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.&lt;/p&gt;
+
+&lt;p&gt;However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.&lt;/p&gt;
+
+&lt;p&gt;For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.&lt;/p&gt;
+
+&lt;p&gt;In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.&lt;/p&gt;
+
+&lt;p&gt;As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.&lt;/p&gt;
+
+&lt;p&gt;Once you leave our website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website&amp;rsquo;s Terms of Service.&lt;/p&gt;
+
+&lt;h2 id=&#34;links:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;When you click on links on our website, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.&lt;/p&gt;
+
+&lt;h2 id=&#34;security:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;SECURITY&lt;/h2&gt;
+
+&lt;p&gt;To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.&lt;/p&gt;
+
+&lt;h2 id=&#34;cookies:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;COOKIES&lt;/h2&gt;
+
+&lt;p&gt;We used cookies to improve user experience.&lt;/p&gt;
+
+&lt;h2 id=&#34;age-of-consent:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;AGE OF CONSENT&lt;/h2&gt;
+
+&lt;p&gt;By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependants to use this site.&lt;/p&gt;
+
+&lt;h2 id=&#34;changes-to-this-privacy-policy:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;CHANGES TO THIS PRIVACY POLICY&lt;/h2&gt;
+
+&lt;p&gt;We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.&lt;/p&gt;
+
+&lt;p&gt;If our company is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.&lt;/p&gt;
+
+&lt;h2 id=&#34;questions-and-contact-information:18d05a63a1c8d7ed973cc51838494e41&#34;&gt;QUESTIONS AND CONTACT INFORMATION&lt;/h2&gt;
+
+&lt;p&gt;If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information, please &lt;a href=&#34;http://dev.entiti.org/contact/&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>http://dev.entiti.org/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/services/</guid>
+      <description>
+
+&lt;h1 id=&#34;services:bfc9941b6b6fd7b4ef09dd0ccd08af0c&#34;&gt;Services&lt;/h1&gt;
+
+&lt;p&gt;We offer the following services:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Facebook Application  Development&lt;/li&gt;
+&lt;li&gt;Androip Application Development&lt;/li&gt;
+&lt;li&gt;Wordpress Blog &amp;amp; Website Development&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Please &lt;a href=&#34;http://dev.entiti.org/contact/&#34;&gt;contact&lt;/a&gt; us for any questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thank You</title>
+      <link>http://dev.entiti.org/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/thank-you/</guid>
+      <description>
+
+&lt;h1 id=&#34;thank-you:ef28a5e2fe67f4c2122451e2e025a17b&#34;&gt;Thank You&lt;/h1&gt;
+
+&lt;p&gt;Thank you for using our products and services.&lt;/p&gt;
+
+&lt;p&gt;We hope that it helps to ease your everyday works.&lt;/p&gt;
+
+&lt;p&gt;Please &lt;a href=&#34;http://dev.entiti.org/contact/&#34;&gt;contact&lt;/a&gt; us for any questions.&lt;/p&gt;
+
+&lt;div class=&#34;fb-page&#34; data-href=&#34;https://www.facebook.com/AppsNinja.Org&#34; data-small-header=&#34;false&#34; data-adapt-container-width=&#34;true&#34; data-hide-cover=&#34;false&#34; data-show-facepile=&#34;true&#34; data-show-posts=&#34;false&#34;&gt;&lt;div class=&#34;fb-xfbml-parse-ignore&#34;&gt;&lt;blockquote cite=&#34;https://www.facebook.com/AppsNinja.Org&#34;&gt;&lt;a href=&#34;https://www.facebook.com/AppsNinja.Org&#34;&gt;AppsNinja.Org&lt;/a&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poslaju Tracking Facebook Tab on Entiti DEV</title>
+    <link>http://dev.entiti.org/tags/poslaju-tracking-facebook-tab/</link>
+    <description>Recent content in Poslaju Tracking Facebook Tab on Entiti DEV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://dev.entiti.org/tags/poslaju-tracking-facebook-tab/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pos Laju Tracking Application</title>
+      <link>http://dev.entiti.org/blog/pos-laju-tracking/</link>
+      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://dev.entiti.org/blog/pos-laju-tracking/</guid>
+      <description>
+
+&lt;h1 id=&#34;pos-laju-tracking-application:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;Pos Laju Tracking Application&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Pos Laju Tracking Application&amp;rdquo;&lt;/strong&gt; is a simple application that you can use to check your parcel delivery status. It has simple interface and very easy to use.&lt;/p&gt;
+
+&lt;p&gt;To check your pos laju parcel status, please click this link &lt;strong&gt;&lt;a href=&#34;http://dev.entiti.org/tools/parcel-tracks/poslaju/&#34;&gt;Pos Laju Tracking&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;pos-laju-tracking-for-facebook-tab:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;Pos Laju Tracking For Facebook Tab&lt;/h2&gt;
+
+&lt;p&gt;This application is also available to be install to your facebook fanpage. To install this application to your fanpage, please click the button below.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&#34;ui huge green button&#34; href=&#34;https://www.facebook.com/dialog/pagetab?app_id=583519148338567&amp;next=http://appsninja.org/thank-you/&#34; title=&#34;Install To FB Fanpage&#34; target=&#34;_blank&#34;&gt;Install To FB Fanpage&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;screenshoot:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;Screenshoot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://dev.entiti.org/media/blog/poslaju-tracking.jpg&#34; alt=&#34;screenshoot pos laju tracking applicatio&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;changelog:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;Changelog&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 2.1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;. Fixed broken link.&lt;br&gt;
+. Update application layout using SemanticUi.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 2.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;. Changed back-end engine using ruby&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Version 1.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;. Application launch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;faq:8675da99ac4d76bc3d253338d44a2b3f&#34;&gt;FAQ&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Do I need to pay to install the application?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;No. The application is available to you for free of charge. There is no need to pay. The application is a token from us to you because you have spend your time visiting our website.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Can I ask you to custom made the application?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Yes. You can ask for a custom made version of the application with us for a small fee. The custom made version allow you to put your own advertisement to you fanpage.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

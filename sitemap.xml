@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://dev.entiti.org/</loc>
+    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/blog/pos-laju-tracking/</loc>
+    <lastmod>2015-10-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/blog/abx-express-tracking/</loc>
+    <lastmod>2015-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/blog/kangaroo-worldwide-express-tracking/</loc>
+    <lastmod>2015-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/tools/parcel-tracks/</loc>
+    <lastmod>2015-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/tools/parcel-tracks/abx-express/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/tools/parcel-tracks/poslaju/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/services/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dev.entiti.org/thank-you/</loc>
+  </url>
+  
+</urlset>

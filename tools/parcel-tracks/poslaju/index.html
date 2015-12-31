@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pos Laju Tracking Online</title>
+    
+    <meta property="og:description" content=""/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="Pos Laju Tracking Online"/>
+    <meta property="og:site_name" content="Entiti DEV"/>
+    <meta property="fb:admins" content="550321389"/>
+    <meta property="og:url" content="http://dev.entiti.org/tools/parcel-tracks/poslaju/"/>
+    <link rel="canonical" href="http://dev.entiti.org/tools/parcel-tracks/poslaju/">
+    <link rel='stylesheet' href='/assets/semanticui/semantic.css' type='text/css'/>
+<link rel='stylesheet' href='/assets/stylesheets/font-awesome.min.css' type='text/css'/>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet">
+<link rel='stylesheet' href='/assets/stylesheets/style.css' type='text/css'/>
+<link rel="shortcut icon" href="/assets/images/favicon.ico" type="image/x-icon">
+    
+    
+<script></script>
+
+</head>
+<body>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=176088875890298";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="wrapper">
+    <div class="ap-header">
+        <div class="ap-menu">
+    <div class="ui secondary menu">
+        <a class="item" href="/">
+            <div class="ui icon"><i class="inverted big home icon"></i></div>
+        </a>
+        <div class="right menu">
+            <a id="button-home" class="item ui inverted basic orange button" href="/">Home</a>
+            <div class="ui dropdown item inverted basic orange button ap-tool">
+                Tools
+                <i class="dropdown icon"></i>
+                <div class="menu">
+                    <div class="header item"><b>Parcel Tracks</b></div>
+                    <a class="item" href="/tools/parcel-tracks/poslaju/"><i class="angle right icon"></i>Pos Laju Tracking</a>
+                </div>
+            </div>
+            <a id="button-blog" class="item ui inverted basic orange button" href="/blog/">Blog</a>
+            <a id="button-services" class="item ui inverted basic orange button" href="/services/">Services</a>
+            <a id="button-contact" class="item ui inverted basic orange button" href="/contact/">Contact</a>
+        </div>
+    </div>
+</div>
+    </div>
+    <div class="ap-main">
+        <div class="ap-apps">
+            <h1>Pos Laju Tracking Online</h1>
+            
+<div class="my-apps" ng-app="myApp" ng-controller="myController">
+    
+    <div class="ui form">
+        <fieldset class="field">
+            <form name="poslajuTrackers" ng-submit="checkParcel()">
+                <div class="ui fluid input">
+                    <input required ng-model="user.trackCode" type="text" placeholder="Tracking Number">
+                </div>
+                <div class="ui two buttons" style="padding-top: 5px">
+                    <button ng-disabled="poslajuTrackers.$invalid" type="submit" class="ui green button">Check</button>
+                    <button ng-click="reset()" type="reset" class="ui red button">Reset</button>
+                </div>
+            </form>
+
+            <div class="ap-apps-social">
+                <p>Is this application helpful?</p>
+                <div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button_count" data-action="recommend" data-show-faces="true" data-share="true"></div>
+            </div>
+        </fieldset>
+        <div style="padding-top: 2px; padding-right: 2px; float: right">
+            <label class="ui tiny green label"><a href="https://www.facebook.com/dialog/pagetab?app_id=583519148338567&next=http://appsninja.org/thank-you/" title="Install to your fanpage?" target="_blank">Install</a></label>
+            <label class="ui tiny red label"><a href="/contact/" title="Report Broken App?">Report</a></label>
+            <label class="ui tiny orange label">V{[{appInfo.version}]}</label>
+        </div>
+    </div>
+    <div class="ui modal">
+        <div class="header">
+            <b>Parcel Status</b>
+        </div>
+        <div  class="content" >
+                            <span ng-repeat="data in parcelStatus">
+                                <p>
+                                    <label class="ui blue mini label">{[{ data.date }]}</label>
+                                    <label class="ui green mini label">{[{ data.process }]}</label>
+                                    <label class="ui orange mini label">{[{ data.office }]}</label>
+                                </p>
+                            </span>
+            <p ng-if="user.requestComplete" ng-hide="parcelStatus.length > 0">No record found!</p>
+        </div>
+        <div class="actions">
+            <div class="ui positive right labeled button">
+                Close
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+    <div class="ap-footer">
+        <div class="footer-inside">Made with <i class="fa fa-heart love"></i> in Malaysia — 2015</div>
+    </div>
+</div>
+</body>
+<script src="/assets/javascripts/jquery-1.11.1.min.js"></script>
+<script src="/assets/semanticui/semantic.js"></script>
+<script type="text/javascript" src="/assets/javascripts/angular.js"></script>
+<script type="text/javascript" src="/assets/javascripts/poslaju.js"></script>
+<link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.7.1/loading-bar.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/angular-loading-bar/0.7.1/loading-bar.min.js'></script>
+
+<script></script>
+
+<script>
+    $('.ui.dropdown')
+            .dropdown()
+    ;
+</script>
+</html>

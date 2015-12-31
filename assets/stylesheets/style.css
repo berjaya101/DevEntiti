@@ -1,0 +1,416 @@
+/* line 21, ../../../../../../../home/berjaya101/.rbenv/versions/1.9.3-p551/lib/ruby/gems/1.9.1/gems/susy-2.2.5/sass/susy/language/susy/_box-sizing.scss */
+*, *:before, *:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* line 13, ../sass/appsninja.scss */
+body {
+    font-size: 18px;
+    line-height: 27px;
+}
+
+/* line 18, ../sass/appsninja.scss */
+blockquote {
+    padding-left: 10px !important;
+    border-left: 1px solid #ddd;
+    color: #6f6f6f;
+}
+
+/* line 24, ../sass/appsninja.scss */
+.wrapper {
+    min-height: 100%;
+    color: #333333;
+}
+
+/* line 29, ../sass/appsninja.scss */
+.ap-header {
+    min-height: 80px;
+    clear: both;
+    clear: both;
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: rgba(17, 17, 17, 0.9);
+    border-bottom: 3px solid rgba(255, 153, 0, 0.9);
+}
+/* line 35, ../sass/appsninja.scss */
+.ap-header .ap-menu {
+    max-width: 1024px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+@media (max-width: 20em) {
+    /* line 42, ../sass/appsninja.scss */
+    .ap-header .ap-menu #button-services,
+    .ap-header .ap-menu #button-contact {
+        display: none !important;
+    }
+}
+@media (min-width: 20.0625em) and (max-width: 26.25em) {
+    /* line 48, ../sass/appsninja.scss */
+    .ap-header .ap-menu #button-services,
+    .ap-header .ap-menu #button-contact {
+        display: none !important;
+    }
+}
+@media (min-width: 26.3125em) and (max-width: 32.5em) {
+    /* line 54, ../sass/appsninja.scss */
+    .ap-header .ap-menu #button-services {
+        display: none !important;
+    }
+}
+
+/* line 66, ../sass/appsninja.scss */
+.right.menu {
+    padding-right: 20px;
+}
+
+/* line 69, ../sass/appsninja.scss */
+.ap-main {
+    min-height: calc(100vh - 150px);
+    clear: both;
+}
+
+/* line 73, ../sass/appsninja.scss */
+.ap-footer {
+    min-height: 70px;
+    clear: both;
+    background-color: rgba(17, 17, 17, 0.9);
+    border-top: 3px solid rgba(255, 153, 0, 0.9);
+}
+/* line 78, ../sass/appsninja.scss */
+.ap-footer .footer-inside {
+    color: #fffff0;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
+/* line 85, ../sass/appsninja.scss */
+.ap-footer .love {
+    color: #C0392B;
+}
+
+/* line 90, ../sass/appsninja.scss */
+.homer {
+    text-align: center;
+}
+/* line 92, ../sass/appsninja.scss */
+.homer .ui.huge.basic.button {
+    font-weight: bolder;
+    border-color: rgba(255, 255, 255, 0.9);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+/* line 99, ../sass/appsninja.scss */
+.homer .ui.basic.orange.button:hover {
+    border-color: rgba(242, 98, 2, 0.9);
+}
+/* line 102, ../sass/appsninja.scss */
+.homer a.ui.huge.basic.orange.button {
+    color: #fffff0 !important;
+}
+/* line 105, ../sass/appsninja.scss */
+.homer a.ui.huge.basic.orange.button:hover {
+    color: rgba(242, 98, 2, 0.9) !important;
+}
+/* line 108, ../sass/appsninja.scss */
+.homer h1 {
+    padding-top: 50px !important;
+    font-size: 500%;
+}
+@media (max-width: 20em) {
+    /* line 108, ../sass/appsninja.scss */
+    .homer h1 {
+        font-size: 200%;
+    }
+}
+@media (min-width: 20.0625em) and (max-width: 26.25em) {
+    /* line 108, ../sass/appsninja.scss */
+    .homer h1 {
+        font-size: 250%;
+    }
+}
+@media (min-width: 26.3125em) and (max-width: 32.5em) {
+    /* line 108, ../sass/appsninja.scss */
+    .homer h1 {
+        font-size: 300%;
+    }
+}
+@media (min-width: 32.5625em) and (max-width: 38.75em) {
+    /* line 108, ../sass/appsninja.scss */
+    .homer h1 {
+        font-size: 400%;
+    }
+}
+@media (min-width: 38.8125em) and (max-width: 48em) {
+    /* line 108, ../sass/appsninja.scss */
+    .homer h1 {
+        font-size: 450%;
+    }
+}
+/* line 127, ../sass/appsninja.scss */
+.homer h2 {
+    font-weight: 400;
+    font-size: 37px;
+}
+@media (max-width: 20em) {
+    /* line 127, ../sass/appsninja.scss */
+    .homer h2 {
+        font-size: 22px;
+    }
+}
+@media (min-width: 20.0625em) and (max-width: 26.25em) {
+    /* line 127, ../sass/appsninja.scss */
+    .homer h2 {
+        font-size: 25px;
+    }
+}
+@media (min-width: 26.3125em) and (max-width: 32.5em) {
+    /* line 127, ../sass/appsninja.scss */
+    .homer h2 {
+        font-size: 28px;
+    }
+}
+@media (min-width: 32.5625em) and (max-width: 38.75em) {
+    /* line 127, ../sass/appsninja.scss */
+    .homer h2 {
+        font-size: 32px;
+    }
+}
+@media (min-width: 38.8125em) and (max-width: 48em) {
+    /* line 127, ../sass/appsninja.scss */
+    .homer h2 {
+        font-size: 35px;
+    }
+}
+
+/* line 147, ../sass/appsninja.scss */
+.fourOfour {
+    text-align: center;
+}
+/* line 149, ../sass/appsninja.scss */
+.fourOfour .ui.huge.basic.button {
+    font-weight: bolder;
+    border-color: rgba(255, 255, 255, 0.9);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+/* line 156, ../sass/appsninja.scss */
+.fourOfour .ui.basic.orange.button:hover {
+    border-color: rgba(242, 98, 2, 0.9);
+}
+/* line 159, ../sass/appsninja.scss */
+.fourOfour a.ui.huge.basic.orange.button {
+    color: #fffff0 !important;
+}
+/* line 162, ../sass/appsninja.scss */
+.fourOfour a.ui.huge.basic.orange.button:hover {
+    color: rgba(242, 98, 2, 0.9) !important;
+}
+/* line 165, ../sass/appsninja.scss */
+.fourOfour h1 {
+    padding-top: 50px !important;
+    font-size: 500%;
+}
+@media (max-width: 20em) {
+    /* line 165, ../sass/appsninja.scss */
+    .fourOfour h1 {
+        font-size: 200%;
+    }
+}
+@media (min-width: 20.0625em) and (max-width: 26.25em) {
+    /* line 165, ../sass/appsninja.scss */
+    .fourOfour h1 {
+        font-size: 250%;
+    }
+}
+@media (min-width: 26.3125em) and (max-width: 32.5em) {
+    /* line 165, ../sass/appsninja.scss */
+    .fourOfour h1 {
+        font-size: 300%;
+    }
+}
+@media (min-width: 32.5625em) and (max-width: 38.75em) {
+    /* line 165, ../sass/appsninja.scss */
+    .fourOfour h1 {
+        font-size: 400%;
+    }
+}
+@media (min-width: 38.8125em) and (max-width: 48em) {
+    /* line 165, ../sass/appsninja.scss */
+    .fourOfour h1 {
+        font-size: 450%;
+    }
+}
+/* line 184, ../sass/appsninja.scss */
+.fourOfour h2 {
+    font-weight: 400;
+    font-size: 37px;
+}
+@media (max-width: 20em) {
+    /* line 184, ../sass/appsninja.scss */
+    .fourOfour h2 {
+        font-size: 22px;
+    }
+}
+@media (min-width: 20.0625em) and (max-width: 26.25em) {
+    /* line 184, ../sass/appsninja.scss */
+    .fourOfour h2 {
+        font-size: 25px;
+    }
+}
+@media (min-width: 26.3125em) and (max-width: 32.5em) {
+    /* line 184, ../sass/appsninja.scss */
+    .fourOfour h2 {
+        font-size: 28px;
+    }
+}
+@media (min-width: 32.5625em) and (max-width: 38.75em) {
+    /* line 184, ../sass/appsninja.scss */
+    .fourOfour h2 {
+        font-size: 32px;
+    }
+}
+@media (min-width: 38.8125em) and (max-width: 48em) {
+    /* line 184, ../sass/appsninja.scss */
+    .fourOfour h2 {
+        font-size: 35px;
+    }
+}
+
+/* line 204, ../sass/appsninja.scss */
+.ap-page {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* line 211, ../sass/appsninja.scss */
+.ap-page img {
+    width: 100%;
+}
+
+/* line 215, ../sass/appsninja.scss */
+.ap-section {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-height: calc(100vh - 199px);
+}
+@media (max-width: 20em) {
+    /* line 223, ../sass/appsninja.scss */
+    .ap-section .ui.cards {
+        margin-top: 5px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-left: 5px;
+    }
+}
+@media (min-width: 20.0625em) and (max-width: 26.25em) {
+    /* line 231, ../sass/appsninja.scss */
+    .ap-section .ui.cards {
+        margin-top: 5px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-left: 5px;
+    }
+}
+@media (min-width: 26.3125em) and (max-width: 32.5em) {
+    /* line 239, ../sass/appsninja.scss */
+    .ap-section .ui.cards {
+        margin-top: 5px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-left: 5px;
+    }
+}
+@media (min-width: 32.5625em) and (max-width: 38.75em) {
+    /* line 247, ../sass/appsninja.scss */
+    .ap-section .ui.cards {
+        margin-top: 5px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-left: 5px;
+    }
+}
+/* line 257, ../sass/appsninja.scss */
+.ap-section img {
+    width: 100%;
+}
+/* line 260, ../sass/appsninja.scss */
+.ap-section .content {
+    padding: 0 !important;
+}
+/* line 263, ../sass/appsninja.scss */
+.ap-section a {
+    padding: 0.3em 1em;
+}
+/* line 266, ../sass/appsninja.scss */
+.ap-section .image a {
+    padding: 0 !important;
+}
+
+/* line 271, ../sass/appsninja.scss */
+.ap-single {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-height: calc(100vh - 199px);
+}
+/* line 278, ../sass/appsninja.scss */
+.ap-single img {
+    width: 100%;
+}
+/* line 281, ../sass/appsninja.scss */
+.ap-single .ap-social {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+/* line 286, ../sass/appsninja.scss */
+.ap-single .ap-comment {
+    padding-top: 30px;
+}
+
+/* line 290, ../sass/appsninja.scss */
+.ap-apps {
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-height: calc(100vh - 199px);
+}
+/* line 297, ../sass/appsninja.scss */
+.ap-apps img {
+    width: 100%;
+}
+/* line 300, ../sass/appsninja.scss */
+.ap-apps fieldset {
+    border: 2px solid #ecf0f1;
+    border-radius: 6px;
+    padding: 30px 50px;
+}
+/* line 305, ../sass/appsninja.scss */
+.ap-apps .ap-apps-social {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+/* line 310, ../sass/appsninja.scss */
+.ap-apps .ap-apps-social p {
+    margin-bottom: -5px;
+}
